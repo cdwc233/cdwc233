@@ -29,7 +29,7 @@ Here are some ideas to get you started:
     <br />
     <br />🍉 Take a look at my stats. 
     <br />
-    <br />🌱 If you want to know more about me, please visit my <a href="https://www.cnblogs.com/wangyang0210/">blog</a>
+    <br />🌱 If you want to know more about me, please visit my <a href="https://cdwc233.github.io/">blog</a>
     <br />
   </samp>
 
