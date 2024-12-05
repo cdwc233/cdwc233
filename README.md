@@ -24,15 +24,14 @@ Here are some ideas to get you started:
     <br />
     <br />
   </samp>
-
-
+| <a> <img align="center" src="https://github-readme-stats.vercel.app/api?username=cdwc233&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="萌萌哒的油条's github stats" /> </a> | <a> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cdwc233&layout=compact&theme=buefy&hide_border=true" /> </a> | 
+| ------------- | ------------- |
 </p>
-
-<div align="center">
-
-![](https://github-immortality.vercel.app/api?username=eryajf)
-
-[![萌萌哒的油条's github stats](https://github-readme-stats.vercel.app/api?username=cdwc233&include_orgs=true&hide_title=false&hide_border=true&show_icons=true&include_all_commits=true&line_height=20&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn)](https://github-readme-stats.vercel.app/api?username=cdwc233&include_orgs=true&hide_title=false&hide_border=true&show_icons=true&include_all_commits=true&line_height=20&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn)[![主要使用语言](https://github-readme-stats.vercel.app/api/top-langs/?username=cdwc233&hide_title=false&hide=c&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn)](https://github-readme-stats.vercel.app/api/top-langs/?username=cdwc233&hide_title=false&hide=c&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn)
+<br />
+<p align="right">
+  <i class="devicon-java-plain-wordmark colored"></i>
+  <a><img height="20" alt="vue" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></a>
+</p>
 
 <!-- [![profile](https://github-profile-trophy.vercel.app/?username=eryajf&theme=algolia&column=8)](https://github-profile-trophy.vercel.app/?username=eryajf&theme=algolia&column=8) -->
 
