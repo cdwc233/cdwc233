@@ -24,8 +24,8 @@ Here are some ideas to get you started:
     <br />
     <br />
   </samp>
-| <a> <img align="center" src="https://github-readme-stats.vercel.app/api?username=cdwc233&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="萌萌哒的油条's github stats" /> </a> | <a> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cdwc233&layout=compact&theme=buefy&hide_border=true" /> </a> | 
-| ------------- | ------------- |
+<a> <img align="center" src="https://github-readme-stats.vercel.app/api?username=cdwc233&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="萌萌哒的油条's github stats" /> </a> | <a> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cdwc233&layout=compact&theme=buefy&hide_border=true" /> </a> | 
+
 </p>
 <br />
 <p align="right">
@@ -33,9 +33,3 @@ Here are some ideas to get you started:
   <a><img height="20" alt="vue" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></a>
 </p>
 
-<!-- [![profile](https://github-profile-trophy.vercel.app/?username=eryajf&theme=algolia&column=8)](https://github-profile-trophy.vercel.app/?username=eryajf&theme=algolia&column=8) -->
-
-[![snake](https://raw.githubusercontent.com/eryajf/eryajf/14e7335fd09606ea4fdf8ad1315bb4f67ddf26dd/github-contribution-grid-snake.svg)](https://raw.githubusercontent.com/eryajf/eryajf/14e7335fd09606ea4fdf8ad1315bb4f67ddf26dd/github-contribution-grid-snake.svg)
-
-
-</div>
