@@ -26,7 +26,7 @@ Here are some ideas to get you started:
     <br />
   </samp>
 
-| <a> <img align="center" src="https://github-readme-stats.vercel.app/api?username=cdwc233&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="萌萌哒的油条's github stats" /> </a> | <a> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cdwc233&layout=compact&theme=buefy&hide_border=true" /> </a> | 
+| <a> <img align="center" src="https://github-readme-stats-nine-blue-58.vercel.app/api?username=cdwc233&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="萌萌哒的油条's github stats" /> </a> | <a> <img align="center" src="https://github-readme-stats-nine-blue-58.vercel.app/api/top-langs/?username=cdwc233&layout=compact&theme=buefy&hide_border=true" /> </a> | 
 | ------------- | ------------- |
 
 </p>
